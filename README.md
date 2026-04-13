@@ -64,12 +64,12 @@ print(df.head())
 
 | domain         | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                          |
 | -------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------------------ |
-| design.loans   | available | $19.99    | $170.99       | 108            | 50     | 6      | name.com                                                           |
-| daily.loans    | resell    | $19.99    | $170.99       | 74             | 40     | 5      | Porkbun LLC                                                        |
+| design.loans   | available | $19.99    | $170.99       | 108            | 49     | 6      | name.com                                                           |
+| daily.loans    | resell    | $19.99    | $170.99       | 74             | 39     | 5      | Porkbun LLC                                                        |
 | abc.loans      | premium   | $260      | $260          | 102            | 50     | 3      | namecheap                                                          |
 | support.loans  | available | $19.99    | —             | 90             | 47     | 7      | name.com                                                           |
 | test.loans     | resell    | —         | —             | 72             | 89     | 4      | GoDaddy.com, LLC                                                   |
-| digital.loans  | premium   | $1,000    | $1,000        | 100            | 50     | 7      | name.com                                                           |
+| digital.loans  | premium   | $1,000    | $1,000        | 100            | 49     | 7      | name.com                                                           |
 | zen.loans      | available | $19.99    | —             | 80             | 47     | 3      | name.com                                                           |
 | matt.loans     | resell    | —         | —             | 72             | 71     | 4      | GoDaddy.com, LLC                                                   |
 | security.loans | premium   | $260      | $260          | 70             | 49     | 8      | namecheap                                                          |
