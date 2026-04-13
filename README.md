@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .loans one-word domains from Uniqu
 
 **Public extract:** 9,479 rows · **Live catalog:** 9,477 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/loans`  
 **Best for:** founders, investors, studios
 
@@ -67,22 +67,22 @@ print(df.head())
 | design.loans   | available | $19.99    | $170.99       | 108            | 50     | 6      | name.com                                                           |
 | daily.loans    | resell    | $19.99    | $170.99       | 74             | 40     | 5      | Porkbun LLC                                                        |
 | abc.loans      | premium   | $260      | $260          | 102            | 50     | 3      | namecheap                                                          |
-| support.loans  | available | $19.99    | —             | 90             | 48     | 7      | name.com                                                           |
+| support.loans  | available | $19.99    | —             | 90             | 47     | 7      | name.com                                                           |
 | test.loans     | resell    | —         | —             | 72             | 89     | 4      | GoDaddy.com, LLC                                                   |
 | digital.loans  | premium   | $1,000    | $1,000        | 100            | 50     | 7      | name.com                                                           |
 | zen.loans      | available | $19.99    | —             | 80             | 47     | 3      | name.com                                                           |
 | matt.loans     | resell    | —         | —             | 72             | 71     | 4      | GoDaddy.com, LLC                                                   |
 | security.loans | premium   | $260      | $260          | 70             | 49     | 8      | namecheap                                                          |
-| event.loans    | available | $144.98   | —             | 96             | 44     | 5      | namecheap                                                          |
+| mix.loans      | available | $19.99    | $170.99       | 66             | 45     | 3      | name.com                                                           |
 | fuck.loans     | resell    | —         | —             | 124            | 70     | 4      | GoDaddy.com, LLC                                                   |
 | health.loans   | premium   | $260      | $260          | 92             | 43     | 6      | namecheap                                                          |
-| food.loans     | available | $144.98   | —             | 94             | 44     | 4      | namecheap                                                          |
+| event.loans    | available | $144.98   | —             | 96             | 44     | 5      | namecheap                                                          |
 | standard.loans | resell    | —         | —             | 66             | 70     | 8      | GoDaddy.com, LLC                                                   |
 | elite.loans    | premium   | $1,000    | $1,000        | 90             | 43     | 5      | name.com                                                           |
-| nice.loans     | available | $19.99    | $170.99       | 86             | 44     | 4      | name.com                                                           |
+| food.loans     | available | $144.98   | —             | 94             | 44     | 4      | namecheap                                                          |
 | prompt.loans   | resell    | —         | —             | 114            | 68     | 6      | Dynadot Inc                                                        |
 | investor.loans | premium   | $250      | —             | 82             | 40     | 8      | name.com                                                           |
-| mix.loans      | available | $19.99    | $170.99       | 66             | 44     | 3      | name.com                                                           |
+| nice.loans     | available | $19.99    | $170.99       | 86             | 44     | 4      | name.com                                                           |
 | the.loans      | resell    | —         | —             | 98             | 58     | 3      | Domain Science Kutatási Szolgáltató Korlátolt Felelősségű Társaság |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOANS One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOANS One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
