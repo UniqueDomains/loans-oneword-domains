@@ -76,6 +76,7 @@ print(df.head())
 | messages.loans   | available | $19.99    | —             | 80             | 16     | 8      | name.com         |
 | Tools.loans      | available | $144.98   | —             | 56             | 40     | 5      | namecheap        |
 | Ryan.loans       | resell    | —         | —             | 60             | 44     | 4      | GoDaddy.com, LLC |
+| simplify.loans   | premium   | —         | —             | 78             | 30     | 8      | —                |
 | realestate.loans | resell    | —         | —             | 77             | 42     | 11     | Porkbun LLC      |
 | whynot.loans     | available | $19.99    | —             | 74             | 39     | 7      | name.com         |
 | dave.loans       | resell    | —         | —             | 76             | 38     | 4      | GoDaddy.com, LLC |
@@ -83,7 +84,6 @@ print(df.head())
 | pete.loans       | resell    | —         | —             | 68             | 29     | 4      | GoDaddy.com, LLC |
 | aliens.loans     | available | $19.99    | —             | 56             | 35     | 6      | name.com         |
 | boats.loans      | resell    | —         | —             | 52             | 24     | 5      | GoDaddy.com, LLC |
-| tickets.loans    | available | $19.99    | —             | 64             | 34     | 7      | name.com         |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

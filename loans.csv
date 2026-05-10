@@ -157,6 +157,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0e830f78-bb4c-441d-820e-9e6616b146d5,publicopinion.loans,available,19.99,,70,7,14,name.com,,
 0e8c2f81-a189-4bda-ae02-6773e7b83517,motorracing.loans,available,19.99,,74,4,12,name.com,,
 0e9c23f7-fc8d-40fb-89a6-fab730dae109,makewhole.loans,available,19.99,,80,2,10,name.com,,
+0ec77068-d59a-455e-abe1-844a2b50d29e,simplify.loans,premium,,,78,30,8,,,
 0f121424-b9ab-4a81-a724-43e4f5a13f29,recommending.loans,available,19.99,,58,3,12,name.com,,
 0f35806b-a810-4212-9a6f-d027c0c61aa8,CountyTyrone.loans,available,144.98,,42,2,13,namecheap,,
 0f67f868-3840-4937-9246-582f4c0d159b,getstuckin.loans,available,19.99,,72,2,12,name.com,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 568a3a98-6a0b-45cc-9825-ecdfe0270da4,bees.loans,available,19.99,,54,27,4,name.com,,
 5697bda6-ef9b-41aa-ad24-d01a7bee4baa,oaktrees.loans,available,19.99,,56,3,9,name.com,,
 56ae1ed2-99a9-4cd9-be49-5e64e24d7e4c,officestaff.loans,available,19.99,,57,2,12,name.com,,
-56b8c357-f626-4435-b2cc-3e68c3df97d9,tornados.loans,available,19.99,,50,4,8,name.com,,
