@@ -75,9 +75,9 @@ print(df.head())
 | getlife.loans    | available | $19.99    | —             | 80             | 5      | 8      | name.com         |
 | messages.loans   | available | $19.99    | —             | 80             | 16     | 8      | name.com         |
 | Tools.loans      | available | $144.98   | —             | 56             | 40     | 5      | namecheap        |
-| Ryan.loans       | resell    | —         | —             | 60             | 44     | 4      | GoDaddy.com, LLC |
+| realestate.loans | resell    | —         | —             | 77             | 44     | 11     | Porkbun LLC      |
 | simplify.loans   | premium   | —         | —             | 78             | 30     | 8      | —                |
-| realestate.loans | resell    | —         | —             | 77             | 42     | 11     | Porkbun LLC      |
+| Ryan.loans       | resell    | —         | —             | 60             | 44     | 4      | GoDaddy.com, LLC |
 | whynot.loans     | available | $19.99    | —             | 74             | 39     | 7      | name.com         |
 | dave.loans       | resell    | —         | —             | 76             | 38     | 4      | GoDaddy.com, LLC |
 | stories.loans    | available | $19.99    | —             | 58             | 36     | 7      | name.com         |
