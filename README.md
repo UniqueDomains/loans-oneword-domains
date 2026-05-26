@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .loans one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,462 domains · **Median ask:** $32.72 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/loans`  
 **Best for:** founders, investors, studios
 
@@ -74,11 +74,11 @@ print(df.head())
 | stirup.loans     | available | $19.99    | —             | 82             | 3      | 7      | name.com         |
 | getlife.loans    | available | $19.99    | —             | 80             | 5      | 8      | name.com         |
 | messages.loans   | available | $19.99    | —             | 80             | 16     | 8      | name.com         |
-| Tools.loans      | available | $144.98   | —             | 56             | 40     | 5      | namecheap        |
+| whynot.loans     | available | $19.99    | —             | 74             | 44     | 7      | name.com         |
 | realestate.loans | resell    | —         | —             | 77             | 44     | 11     | Porkbun LLC      |
 | simplify.loans   | premium   | —         | —             | 78             | 30     | 8      | —                |
+| Tools.loans      | available | $144.98   | —             | 56             | 40     | 5      | namecheap        |
 | Ryan.loans       | resell    | —         | —             | 60             | 44     | 4      | GoDaddy.com, LLC |
-| whynot.loans     | available | $19.99    | —             | 74             | 39     | 7      | name.com         |
 | dave.loans       | resell    | —         | —             | 76             | 38     | 4      | GoDaddy.com, LLC |
 | stories.loans    | available | $19.99    | —             | 58             | 36     | 7      | name.com         |
 | pete.loans       | resell    | —         | —             | 68             | 29     | 4      | GoDaddy.com, LLC |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOANS One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOANS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
