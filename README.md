@@ -1,10 +1,10 @@
-# Available .LOANS One-Word Domains (12,462)
+# Available .LOANS One-Word Domains (12,463)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C462%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-12%2C463%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .loans one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **12,462 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **12,463 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,462 domains · **Median ask:** $32.72 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,463 domains · **Median ask:** $25.69 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/loans`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/loans`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .LOANS one-word domain
 
 ### Files
 
-- `loans.csv` — public CSV extract (1,000 rows)
-- `loans.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `loans.csv`, public CSV extract (1,000 rows)
+- `loans.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| Acup.loans       | available | $144.98   | —             | 80             | 5      | 5      | namecheap        |
-| finals.loans     | available | $19.99    | —             | 80             | 7      | 6      | name.com         |
-| forces.loans     | available | $19.99    | —             | 82             | 12     | 6      | name.com         |
-| geton.loans      | available | $19.99    | —             | 82             | 10     | 6      | name.com         |
-| matcha.loans     | available | $19.99    | —             | 86             | 39     | 6      | name.com         |
-| dogsit.loans     | available | $19.99    | —             | 96             | 2      | 6      | name.com         |
-| playon.loans     | available | $19.99    | —             | 80             | 14     | 7      | name.com         |
-| stirup.loans     | available | $19.99    | —             | 82             | 3      | 7      | name.com         |
-| getlife.loans    | available | $19.99    | —             | 80             | 5      | 8      | name.com         |
-| messages.loans   | available | $19.99    | —             | 80             | 16     | 8      | name.com         |
-| whynot.loans     | available | $19.99    | —             | 74             | 44     | 7      | name.com         |
-| realestate.loans | resell    | —         | —             | 77             | 44     | 11     | Porkbun LLC      |
-| simplify.loans   | premium   | —         | —             | 78             | 30     | 8      | —                |
-| Tools.loans      | available | $144.98   | —             | 56             | 40     | 5      | namecheap        |
-| Ryan.loans       | resell    | —         | —             | 60             | 44     | 4      | GoDaddy.com, LLC |
-| dave.loans       | resell    | —         | —             | 76             | 38     | 4      | GoDaddy.com, LLC |
-| stories.loans    | available | $19.99    | —             | 58             | 36     | 7      | name.com         |
-| pete.loans       | resell    | —         | —             | 68             | 29     | 4      | GoDaddy.com, LLC |
-| aliens.loans     | available | $19.99    | —             | 56             | 35     | 6      | name.com         |
-| boats.loans      | resell    | —         | —             | 52             | 24     | 5      | GoDaddy.com, LLC |
+| domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| atp.loans    | available | $19.99    | —             | medium         | low    | 3      | name.com         |
+| one.loans    | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
+| most.loans   | premium   | $500      | —             | high           | low    | 4      | name.com         |
+| Ava.loans    | available | $19.99    | —             | high           | medium | 3      | name.com         |
+| city.loans   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
+| text.loans   | premium   | $242      | $242          | high           | medium | 4      | namesilo         |
+| bed.loans    | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| farm.loans   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| want.loans   | premium   | $250      | —             | high           | low    | 4      | name.com         |
+| but.loans    | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| find.loans   | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC |
+| abuse.loans  | premium   | $242      | $242          | high           | low    | 5      | namesilo         |
+| cap.loans    | available | $19.99    | —             | high           | low    | 3      | name.com         |
+| more.loans   | resell    | —         | —             | high           | medium | 4      | Name.com, Inc.   |
+| health.loans | premium   | $260      | $260          | high           | medium | 6      | namecheap        |
+| cut.loans    | available | $19.99    | $170.99       | high           | low    | 3      | name.com         |
+| navy.loans   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| hybrid.loans | premium   | $854      | $854          | high           | low    | 6      | namesilo         |
+| dry.loans    | available | $19.99    | $170.99       | high           | low    | 3      | name.com         |
+| soft.loans   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 12,462 live domains                        |
+| 1,000-row public sample | 12,463 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are all in the .loans extension and lean on single-word positioning. That creates two clear evaluation paths. For founders, the main question is whether the word is direct, memorable, and credible enough for a lending brand. For investors, the question is whether the term has enough commercial relevance in finance or consumer intent to support resale interest. Sample names such as Acup.loans, WiFi.loans, finals.loans, and ladies.loans show the range: some are category-adjacent, some are broad consumer words, and some are more speculative. When comparing these domains, focus on semantic fit with lending, clarity on first read, and total holding cost relative to the median ask.
+This set covers one-word and short-phrase domain names built on the .loans extension, a TLD tied to lending, credit, and fintech contexts. Names range from plain dictionary words to compact phrases, giving both founders seeking a brandable identity and investors scanning a finance-adjacent TLD a concrete list to compare. Pricing across this selection centers on a median ask near $26, making most names accessible to evaluate quickly.
 
-- All names in this set use the .loans extension
-- Median ask across the selection is 32.72
-- Best fits pair clear meaning with lending relevance
-- Watch weak category fit and possible trademark issues
+- 12,463 one-word .loans domains available for evaluation
+- Median asking price near $26 across this selection
+- Short, brandable names suited to lending and fintech
+- Updated daily to reflect current pricing signals
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOANS One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOANS One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
