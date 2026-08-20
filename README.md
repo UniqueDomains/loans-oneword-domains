@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .loans one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 17,384 domains · **Median ask:** $22.38 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-19
+**Last updated:** 2026-08-20
 **Canonical page:** `https://unique.domains/domains/tld/loans`
 **Best for:** founders, investors, studios
 
@@ -64,12 +64,8 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| okay.loans   | available | $19.99    | $170.99       | high           | low    | 4      | name.com         |
-| one.loans    | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
-| room.loans   | available | $19.99    | —             | high           | low    | 4      | name.com         |
-| cut.loans    | available | $19.99    | $170.99       | high           | low    | 3      | name.com         |
-| soft.loans   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 | atp.loans    | available | $19.99    | —             | medium         | low    | 3      | name.com         |
+| one.loans    | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
 | most.loans   | premium   | $500      | —             | high           | low    | 4      | name.com         |
 | Ava.loans    | available | $19.99    | —             | high           | medium | 3      | name.com         |
 | city.loans   | resell    | —         | —             | high           | medium | 4      | Dynadot Inc      |
@@ -83,7 +79,11 @@ print(df.head())
 | cap.loans    | available | $19.99    | —             | high           | low    | 3      | name.com         |
 | more.loans   | resell    | —         | —             | high           | medium | 4      | Name.com, Inc.   |
 | health.loans | premium   | $260      | $260          | high           | medium | 6      | namecheap        |
+| cut.loans    | available | $19.99    | $170.99       | high           | low    | 3      | name.com         |
 | navy.loans   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| hybrid.loans | premium   | $854      | $854          | high           | low    | 6      | namesilo         |
+| cxv.loans    | available | $17.48    | $144.98       | low            | low    | 3      | namecheap        |
+| soft.loans   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOANS One-Word Domains*. Version 2026-08-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOANS One-Word Domains*. Version 2026-08-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
