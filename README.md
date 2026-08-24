@@ -1,10 +1,10 @@
-# Available .LOANS One-Word Domains (19,007)
+# Available .LOANS One-Word Domains (19,059)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C007%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-19%2C059%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .loans one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **19,007 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **19,059 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 19,007 domains · **Median ask:** $21.97 · **High-demand under $2,500:** 1
+**Public extract:** 1,000 rows · **Live catalog:** 19,059 domains · **Median ask:** $21.96 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-08-23
+**Last updated:** 2026-08-24
 **Canonical page:** `https://unique.domains/domains/tld/loans`
 **Best for:** founders, investors, studios
 
@@ -64,7 +64,6 @@ print(df.head())
 
 | domain       | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
 | ------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| okay.loans   | available | $19.99    | $170.99       | high           | low    | 4      | name.com         |
 | atp.loans    | available | $19.99    | —             | medium         | low    | 3      | name.com         |
 | one.loans    | resell    | —         | —             | high           | medium | 3      | Dynadot Inc      |
 | most.loans   | premium   | $500      | —             | high           | low    | 4      | name.com         |
@@ -84,6 +83,7 @@ print(df.head())
 | navy.loans   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 | hybrid.loans | premium   | $854      | $854          | high           | low    | 6      | namesilo         |
 | cxv.loans    | available | $17.48    | $144.98       | low            | low    | 3      | namecheap        |
+| soft.loans   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 19,007 live domains                        |
+| 1,000-row public sample | 19,059 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 1 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOANS One-Word Domains*. Version 2026-08-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOANS One-Word Domains*. Version 2026-08-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
