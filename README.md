@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .loans one-word domains fro
 
 **Public extract:** 1,000 rows · **Live catalog:** 31,599 domains · **Median ask:** $20.45 · **High-demand under $2,500:** 1
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/loans`
 **Best for:** founders, investors, studios
 
@@ -78,12 +78,12 @@ print(df.head())
 | abuse.loans  | premium   | $242      | $242          | medium         | low    | 5      | namesilo         |
 | cap.loans    | available | $19.99    | —             | high           | low    | 3      | name.com         |
 | more.loans   | resell    | —         | —             | high           | medium | 4      | Name.com, Inc.   |
-| health.loans | premium   | $260      | $260          | medium         | low    | 6      | namecheap        |
-| cut.loans    | available | $19.99    | $170.99       | high           | low    | 3      | name.com         |
+| health.loans | premium   | $242      | $242          | medium         | low    | 6      | namesilo         |
+| cut.loans    | available | $20.99    | $116.99       | low            | low    | 3      | namesilo         |
 | navy.loans   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
 | hybrid.loans | premium   | $854      | $854          | high           | low    | 6      | namesilo         |
 | cxv.loans    | available | $17.48    | $144.98       | low            | low    | 3      | namecheap        |
-| soft.loans   | resell    | —         | —             | high           | low    | 4      | GoDaddy.com, LLC |
+| soft.loans   | resell    | —         | —             | medium         | low    | 4      | GoDaddy.com, LLC |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .LOANS One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .LOANS One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
